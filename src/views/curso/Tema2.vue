@@ -417,7 +417,7 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://pro.iesdonana.org/pdf/programacion-modular-i.pdf" target="_blank" rel="noopener noreferrer") Pérez López, R. (2024). Programación modular (I). IES Doñana. 
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/49204" target="_blank" rel="noopener noreferrer") Pérez López, R. (2024). Programación modular (I). IES Doñana. 
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")

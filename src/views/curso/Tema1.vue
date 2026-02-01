@@ -534,7 +534,7 @@
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Título del anexo
+                p <strong>Anexo. </strong> Una estrategia clave para organizar el código y fomentar la modularidad
     
     
 
